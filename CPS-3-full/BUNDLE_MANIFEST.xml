@@ -78,6 +78,9 @@
     <branch target="iCalendar"
 	    name="0.11-ogrisel-inline-fix" path="iCalendar/0.11"/>
     <branch target="DCWorkflowGraph" path="DCWorkflowGraph/0.3"/>
+    <branch name="gracinet-fix-range"
+	    target="CPSTramline/tramlinepath" path="tramline"
+	    subpath="src/tramline/path"/>
   </server>
 
 </bundle>
