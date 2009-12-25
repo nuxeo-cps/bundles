@@ -83,4 +83,10 @@
 	    subpath="src/tramline/path"/>
   </server>
 
+  <!-- Sporadic stuff -->
+  <server url="ssh://mercurial.racinet.org//home/mercurial/CPS">
+    <tag name="2.0.2" path="OOo/ooo2dbk"
+	 target="PortalTransforms/transforms/ooo2dbk"/>
+  </server>
+
 </bundle>
