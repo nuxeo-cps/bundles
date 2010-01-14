@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <bundle>
 
-  <server name="CPS Products on racinet.org"
+  <server name="CPS Products at Nuxeo"
 	  url="http://hgcps.nuxeo.org"
 	  push-url="https://hgcps.nuxeo.org">
     <branch path="products/CPSApacheProxyBalancer" />
