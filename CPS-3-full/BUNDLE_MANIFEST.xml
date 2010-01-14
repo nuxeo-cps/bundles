@@ -2,8 +2,8 @@
 <bundle>
 
   <server name="CPS Products on racinet.org"
-	  url="http://mercurial.racinet.org/CPS"
-	  push-url="https://mercurial.racinet.org/CPS">
+	  url="http://hgcps.nuxeo.org"
+	  push-url="https://hgcps.nuxeo.org">
     <branch path="products/CPSApacheProxyBalancer" />
     <branch path="products/CPSFileMailer" />
     <branch path="products/CPSTramline" />
@@ -56,8 +56,8 @@
 
   <!-- CMF -->
   <server
-      url="http://mercurial.racinet.org/CPS/vendor/CMF/1.6.3"
-      push-url="https://mercurial.racinet.org/CPS/vendor/CMF/1.6.3">
+      url="http://hgcps.nuxeo.org/vendor/CMF/1.6.3"
+      push-url="https://hgcps.nuxeo.org/vendor/CMF/1.6.3">
     <branch path="CMFActionIcons"/>
     <branch path="CMFCalendar"/>
     <branch path="CMFCore"/>
@@ -71,8 +71,8 @@
 
   <!-- Other "vendor" products from Nuxeo's svn repository.
        These are live branches to allow quick fixes. -->
-  <server url="http://mercurial.racinet.org/CPS/vendor"
-	  push-url="https://mercurial.racinet.org/CPS/vendor">
+  <server url="http://hgcps.nuxeo.org/vendor"
+	  push-url="https://hgcps.nuxeo.org/vendor">
     <branch target="Five" path="Five/1.3.2"/>
     <branch target="CMFonFive" path="CMFonFive/1.3.3"/>
     <branch target="ExternalEditor" path="ExternalEditor/0.9.2"/>
@@ -87,8 +87,8 @@
   </server>
 
   <!-- Sporadic stuff -->
-  <server url="http://mercurial.racinet.org/CPS"
-	  push-url="https://mercurial.racinet.org/CPS">
+  <server url="http://hgcps.nuxeo.org"
+	  push-url="https://hgcps.nuxeo.org">
     <tag name="2.0.2" path="OOo/ooo2dbk"
 	 target="PortalTransforms/transforms/ooo2dbk"/>
   </server>
