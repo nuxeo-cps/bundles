@@ -4,46 +4,46 @@
   <server name="CPS Products on racinet.org"
 	  url="http://mercurial.racinet.org/CPS"
 	  push-url="https://mercurial.racinet.org/CPS">
-    <branch path="products/CPSApacheProxyBalancer" />
-    <branch path="products/CPSFileMailer" />
-    <branch path="products/CPSTramline" />
-    <branch path="products/CPSBlog" />
-    <branch path="products/CPSBayes" />
-    <branch path="products/CPSChat" />
-    <branch path="products/CPSCompat" />
-    <branch path="products/CPSCourrier" />
-    <branch path="products/CPSCore" />
-    <branch path="products/CPSDashboards" />
-    <branch path="products/CPSDefault" />
-    <branch path="products/CPSDesignerThemes" />
-    <branch path="products/CPSDirectory" />
-    <branch path="products/CPSDocument" />
-    <branch path="products/CPSExtendedAuth" />
-    <branch path="products/CPSForum" />
-    <branch path="products/CPSI18n" />
-    <branch path="products/CPSLDAPSetup" />
-    <branch path="products/CPSNavigation" />
-    <branch path="products/CPSOOo" />
-    <branch path="products/CPSPortlets" />
-    <branch path="products/CPSRelation" />
-    <branch path="products/CPSComment" />
-    <branch path="products/CPSRSS" />
-    <branch path="products/CPSSchemas" />
-    <branch path="products/CPSSkins" />
-    <branch path="products/CPSSubscriptions" />
-    <branch path="products/CPSTaskTracker" />
-    <branch path="legacy/CPSCollector" />
-    <branch path="products/CPSTinyMCE" />
-    <branch path="products/CPSTypeMaker" />
-    <branch path="products/CPSUid" />
-    <branch path="products/CPSUserFolder" />
-    <branch path="products/CPSUtil" />
-    <branch path="products/CPSMailAccess" />
-    <branch path="products/CPSWiki" />
-    <branch path="products/CPSWorkflow" />
-    <branch path="products/CPSRemoteController" />
-    <branch path="products/CPSSharedCalendar" />
-    <branch path="products/CPSonFive" />
+    <branch name="unicode" path="products/CPSApacheProxyBalancer" />
+    <branch name="unicode" path="products/CPSFileMailer" />
+    <branch name="unicode" path="products/CPSTramline" />
+    <branch name="unicode" path="products/CPSBlog" />
+    <branch name="unicode" path="products/CPSBayes" />
+    <branch name="unicode" path="products/CPSChat" />
+    <branch name="unicode" path="products/CPSCompat" />
+    <branch name="unicode" path="products/CPSCourrier" />
+    <branch name="unicode" path="products/CPSCore" />
+    <branch name="unicode" path="products/CPSDashboards" />
+    <branch name="unicode" path="products/CPSDefault" />
+    <branch name="unicode" path="products/CPSDesignerThemes" />
+    <branch name="unicode" path="products/CPSDirectory" />
+    <branch name="unicode" path="products/CPSDocument" />
+    <branch name="unicode" path="products/CPSExtendedAuth" />
+    <branch name="unicode" path="products/CPSForum" />
+    <branch name="unicode" path="products/CPSI18n" />
+    <branch name="unicode" path="products/CPSLDAPSetup" />
+    <branch name="unicode" path="products/CPSNavigation" />
+    <branch name="unicode" path="products/CPSOOo" />
+    <branch name="unicode" path="products/CPSPortlets" />
+    <branch name="unicode" path="products/CPSRelation" />
+    <branch name="unicode" path="products/CPSComment" />
+    <branch name="unicode" path="products/CPSRSS" />
+    <branch name="unicode" path="products/CPSSchemas" />
+    <branch name="unicode" path="products/CPSSkins" />
+    <branch name="unicode" path="products/CPSSubscriptions" />
+    <branch name="unicode" path="products/CPSTaskTracker" />
+    <branch name="unicode" path="legacy/CPSCollector" />
+    <branch name="unicode" path="products/CPSTinyMCE" />
+    <branch name="unicode" path="products/CPSTypeMaker" />
+    <branch name="unicode" path="products/CPSUid" />
+    <branch name="unicode" path="products/CPSUserFolder" />
+    <branch name="unicode" path="products/CPSUtil" />
+    <branch name="unicode" path="products/CPSMailAccess" />
+    <branch name="unicode" path="products/CPSWiki" />
+    <branch name="unicode" path="products/CPSWorkflow" />
+    <branch name="unicode" path="products/CPSRemoteController" />
+    <branch name="unicode" path="products/CPSSharedCalendar" />
+    <branch name="unicode" path="products/CPSonFive" />
 
     <branch path="python/CalCore" />
     <branch path="zope2/BayesCore" />
