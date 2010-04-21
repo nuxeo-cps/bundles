@@ -7,7 +7,7 @@
     <branch name="unicode" path="products/CPSCompat" />
     <branch name="unicode" path="products/CPSCore" />
     <branch name="unicode" path="products/CPSDefault" />
-    <branch name="unicode" path="products/CPSDesignerThemes" />
+    <branch path="products/CPSDesignerThemes" />
     <branch name="unicode" path="products/CPSDirectory" />
     <branch name="unicode" path="products/CPSDocument" />
     <branch name="unicode" path="products/CPSI18n" />
