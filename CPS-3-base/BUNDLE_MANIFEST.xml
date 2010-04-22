@@ -56,4 +56,11 @@
     <branch target="DCWorkflowGraph" path="DCWorkflowGraph/0.3"/>
   </server>
 
+  <!-- Sporadic stuff -->
+  <server url="http://mercurial.racinet.org/CPS"
+          push-url="https://mercurial.racinet.org/CPS">
+    <tag name="2.0.2" path="OOo/ooo2dbk"
+         target="PortalTransforms/transforms/ooo2dbk"/>
+  </server>
+
 </bundle>
