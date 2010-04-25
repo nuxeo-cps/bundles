@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <bundle>
 
-  <server name="CPS Products on racinet.org"
-	  url="http://mercurial.racinet.org/CPS"
-	  push-url="https://mercurial.racinet.org/CPS">
+  <server name="CPS Products, mainline server"
+	  url="http://hg.cps-cms.org/CPS"
+	  push-url="https://hg.cps-cms.org/CPS">
 
     <!-- Products that aren't in CPS-3-base -->
 
@@ -62,8 +62,8 @@
 
   <!-- CMF (same as CPS-3-base -->
   <server
-      url="http://mercurial.racinet.org/CPS/vendor/CMF/1.6.3"
-      push-url="https://mercurial.racinet.org/CPS/vendor/CMF/1.6.3">
+      url="http://hg.cps-cms.org/CPS/vendor/CMF/1.6.3"
+      push-url="https://hg.cps-cms.org/CPS/vendor/CMF/1.6.3">
     <branch path="CMFActionIcons"/>
     <branch path="CMFCalendar"/>
     <branch path="CMFCore"/>
@@ -77,8 +77,8 @@
 
   <!-- Other "vendor" products from Nuxeo's svn repository.
        These are live branches to allow quick fixes. -->
-  <server url="http://mercurial.racinet.org/CPS/vendor"
-	  push-url="https://mercurial.racinet.org/CPS/vendor">
+  <server url="http://hg.cps-cms.org/CPS/vendor"
+	  push-url="https://hg.cps-cms.org/CPS/vendor">
 
     <!-- Not in CPS-3-base-->
     <branch target="Five" path="Five/1.3.2"/>
@@ -97,8 +97,8 @@
   </server>
 
   <!-- Sporadic stuff -->
-  <server url="http://mercurial.racinet.org/CPS"
-	  push-url="https://mercurial.racinet.org/CPS">
+  <server url="http://hg.cps-cms.org/CPS"
+	  push-url="https://hg.cps-cms.org/CPS">
     <tag name="2.0.2" path="OOo/ooo2dbk"
 	 target="PortalTransforms/transforms/ooo2dbk"/>
   </server>
