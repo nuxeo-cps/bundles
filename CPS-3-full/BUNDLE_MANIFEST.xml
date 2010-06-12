@@ -48,7 +48,6 @@
     <branch path="products/CPSSchemas" />
     <branch path="products/CPSSkins" />
     <branch path="products/CPSSubscriptions" />
-    <branch path="products/CPSTinyMCE" />
     <branch path="products/CPSTypeMaker" />
     <branch path="products/CPSUserFolder" />
     <branch path="products/CPSUtil" />
