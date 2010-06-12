@@ -33,7 +33,6 @@
     <branch name="unicode" path="products/CPSSubscriptions" />
     <branch name="unicode" path="products/CPSTaskTracker" />
     <branch name="unicode" path="legacy/CPSCollector" />
-    <branch name="unicode" path="products/CPSTinyMCE" />
     <branch name="unicode" path="products/CPSTypeMaker" />
     <branch name="unicode" path="products/CPSUid" />
     <branch name="unicode" path="products/CPSUserFolder" />

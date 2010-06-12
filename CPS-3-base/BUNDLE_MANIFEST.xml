@@ -16,7 +16,6 @@
     <branch name="unicode" path="products/CPSSchemas" />
     <branch name="unicode" path="products/CPSSkins" />
     <branch name="unicode" path="products/CPSSubscriptions" />
-    <branch name="unicode" path="products/CPSTinyMCE" />
     <branch name="unicode" path="products/CPSUserFolder" />
     <branch name="unicode" path="products/CPSUtil" />
     <branch name="unicode" path="products/CPSWorkflow" />
