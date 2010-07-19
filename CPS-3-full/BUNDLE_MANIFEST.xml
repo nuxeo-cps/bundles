@@ -93,6 +93,7 @@
     <branch target="ExternalEditor" path="ExternalEditor/0.9.2"/>
     <branch target = "FCKeditor" name="fckeditor.plone_2.2-nux"
 	    path="FCKeditor/fckeditor.plone_2.2"/>
+    <tag name="1.0.0-for-cmf-1.6.0" path="UnicodeLexicon"/>
   </server>
 
   <!-- Sporadic stuff -->
