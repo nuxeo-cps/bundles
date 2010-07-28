@@ -23,7 +23,6 @@
     <branch path="products/CPSonFive" />
 
     <branch path="python/CalCore" />
-    <branch path="zope2/BayesCore" />
     <branch path="zope2/CalZope" />
 
     <!-- Products from CPS-3-base.
