@@ -22,10 +22,8 @@
     <branch path="products/CPSRelation" />
     <branch path="products/CPSComment" />
     <branch path="products/CPSRSS" />
-    <branch path="products/CPSTaskTracker" />
     <branch path="legacy/CPSCollector" />
     <branch path="products/CPSUid" />
-    <branch path="products/CPSMailAccess" />
     <branch path="products/CPSRemoteController" />
     <branch path="products/CPSSharedCalendar" />
     <branch path="products/CPSonFive" />
