@@ -5,8 +5,8 @@
 	  url="http://hg.cps-cms.org/CPS"
 	  push-url="https://hg.cps-cms.org/CPS">
     <branch path="products/CPSCompat" />
-    <branch path="products/CPSCore" />
-    <branch path="products/CPSDefault" />
+    <branch path="products/CPSCore" branch="Zope-2.10"/>
+    <branch path="products/CPSDefault" branch="Zope-2.10"/>
     <branch path="products/CPSDirectory" />
     <branch path="products/CPSDocument" />
     <branch path="products/CPSI18n" />
