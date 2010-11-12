@@ -7,7 +7,6 @@
     <branch path="products/CPSCompat" />
     <branch path="products/CPSCore" />
     <branch path="products/CPSDefault" />
-    <branch path="products/CPSDesignerThemes" />
     <branch path="products/CPSDirectory" />
     <branch path="products/CPSDocument" />
     <branch path="products/CPSI18n" />
