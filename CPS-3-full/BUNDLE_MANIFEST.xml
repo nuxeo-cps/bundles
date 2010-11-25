@@ -2,8 +2,8 @@
 <bundle>
 
   <server name="CPS Products, mainline server"
-	  url="http://hg.cps-cms.org/CPS"
-	  push-url="https://hg.cps-cms.org/CPS">
+	  url="http://hg.cps-cms.org"
+	  push-url="https://hg.cps-cms.org">
 
     <!-- Products that aren't in CPS-3-base -->
 
@@ -95,8 +95,8 @@
   </server>
 
   <!-- Sporadic stuff -->
-  <server url="http://hg.cps-cms.org/CPS"
-	  push-url="https://hg.cps-cms.org/CPS">
+  <server url="http://hg.cps-cms.org"
+	  push-url="https://hg.cps-cms.org">
     <tag name="2.0.2" path="OOo/ooo2dbk"
 	 target="PortalTransforms/transforms/ooo2dbk"/>
   </server>
