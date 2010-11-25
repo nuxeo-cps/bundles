@@ -52,8 +52,8 @@
 
   <!-- CMF (same as CPS-3-base -->
   <server
-      url="http://hg.cps-cms.org/CPS/vendor/CMF/1.6.3"
-      push-url="https://hg.cps-cms.org/CPS/vendor/CMF/1.6.3">
+      url="http://hg.cps-cms.org/vendor/CMF/1.6.3"
+      push-url="https://hg.cps-cms.org/vendor/CMF/1.6.3">
     <branch path="CMFActionIcons"/>
     <branch path="CMFCalendar"/>
     <branch path="CMFCore"/>
@@ -67,8 +67,8 @@
 
   <!-- Other "vendor" products from Nuxeo's svn repository.
        These are live branches to allow quick fixes. -->
-  <server url="http://hg.cps-cms.org/CPS/vendor"
-	  push-url="https://hg.cps-cms.org/CPS/vendor">
+  <server url="http://hg.cps-cms.org/vendor"
+	  push-url="https://hg.cps-cms.org/vendor">
 
     <!-- Not in CPS-3-base-->
     <branch target="Five" path="Five/1.3.2"/>
