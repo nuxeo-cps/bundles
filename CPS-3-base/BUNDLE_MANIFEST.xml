@@ -5,19 +5,19 @@
 	  url="http://hg.cps-cms.org/CPS"
 	  push-url="https://hg.cps-cms.org/CPS">
     <branch path="products/CPSCompat" />
-    <branch path="products/CPSCore" branch="Zope-2.10"/>
-    <branch path="products/CPSDefault" branch="Zope-2.10"/>
+    <branch path="products/CPSCore" name="Zope-2.10"/>
+    <branch path="products/CPSDefault" name="Zope-2.10"/>
     <branch path="products/CPSDirectory" />
-    <branch path="products/CPSDocument" branch="Zope-2.10"/>
+    <branch path="products/CPSDocument" name="Zope-2.10"/>
     <branch path="products/CPSI18n" />
     <branch path="products/CPSNavigation" />
-    <branch path="products/CPSPortlets" branch="Zope-2.10" />
+    <branch path="products/CPSPortlets" name="Zope-2.10" />
     <branch path="products/CPSSchemas" />
     <branch path="products/CPSSkins" />
     <branch path="products/CPSSubscriptions" />
     <branch path="products/CPSUserFolder" />
     <branch path="products/CPSUtil" />
-    <branch path="products/CPSWorkflow" branch="Zope-2.10" />
+    <branch path="products/CPSWorkflow" name="Zope-2.10" />
     <branch path="products/CPSonFive" />
 
     <branch path="zope2/Localizer" />
