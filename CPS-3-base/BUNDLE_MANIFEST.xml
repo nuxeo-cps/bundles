@@ -7,7 +7,7 @@
     <branch path="products/CPSCompat" />
     <branch path="products/CPSCore" name="Zope-2.10"/>
     <branch path="products/CPSDefault" name="Zope-2.10"/>
-    <branch path="products/CPSDesignerThemes" name="Zope-2.10"/>
+    <branch path="products/CPSDesignerThemes" />
     <branch path="products/CPSDirectory" />
     <branch path="products/CPSDocument" />
     <branch path="products/CPSI18n" />
