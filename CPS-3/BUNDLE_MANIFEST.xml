@@ -35,7 +35,7 @@
     <branch path="products/CPSDocument" />
     <branch path="products/CPSI18n" />
     <branch path="products/CPSNavigation" />
-    <branch path="products/CPSPortlets" name="Zope-2.10" />
+    <branch path="products/CPSPortlets" />
     <branch path="products/CPSSchemas" />
     <branch path="products/CPSSkins" />
     <branch path="products/CPSSubscriptions" />
