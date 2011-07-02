@@ -28,8 +28,8 @@
     <!-- Products from CPS-3-base.
 	 Duplicated because recursive inclusions are not supported -->
     <branch path="products/CPSCompat" />
-    <branch path="products/CPSCore" />
-    <branch path="products/CPSDefault" />
+    <branch path="products/CPSCore" name="Zope-2.10"/>
+    <branch path="products/CPSDefault"/>
     <branch path="products/CPSDesignerThemes" />
     <branch path="products/CPSDirectory" />
     <branch path="products/CPSDocument" />
@@ -39,11 +39,12 @@
     <branch path="products/CPSSchemas" />
     <branch path="products/CPSSkins" />
     <branch path="products/CPSSubscriptions" />
-    <branch path="products/CPSTypeMaker" />
     <branch path="products/CPSUserFolder" />
+    <branch path="products/CPSTypeMaker" />
     <branch path="products/CPSUtil" />
     <branch path="products/CPSWiki" />
     <branch path="products/CPSWorkflow" />
+
     <branch path="zope2/Localizer" />
     <branch path="zope2/PortalTransforms" />
     <branch path="zope2/TranslationService" />
@@ -71,7 +72,6 @@
 	  push-url="https://hg.cps-cms.org/vendor">
 
     <!-- Not in CPS-3-base-->
-    <branch target="Five" path="Five/1.3.2"/>
     <branch target="CMFonFive" path="CMFonFive/1.3.3"/>
     <branch target="iCalendar"
 	    name="0.11-ogrisel-inline-fix" path="iCalendar/0.11"/>
