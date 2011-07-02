@@ -43,7 +43,7 @@
     <branch path="products/CPSTypeMaker" />
     <branch path="products/CPSUtil" />
     <branch path="products/CPSWiki" />
-    <branch path="products/CPSWorkflow" name="Zope-2.10" />
+    <branch path="products/CPSWorkflow" />
 
     <branch path="zope2/Localizer" />
     <branch path="zope2/PortalTransforms" />

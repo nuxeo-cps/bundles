@@ -18,7 +18,7 @@
     <branch path="products/CPSSubscriptions" />
     <branch path="products/CPSUserFolder" />
     <branch path="products/CPSUtil" />
-    <branch path="products/CPSWorkflow" name="Zope-2.10" />
+    <branch path="products/CPSWorkflow" />
     <branch path="products/CPSonFive" />
 
     <branch path="zope2/Localizer" />
