@@ -1,0 +1,67 @@
+=======
+INSTALL
+=======
+
+:Authors: - Benoit Delbosc
+          - Marc-Aurèle Darche
+          - Stefane Fermigier
+
+.. sectnum::    :depth: 4
+.. contents::   :depth: 4
+
+
+About
+=====
+
+It is a set of Products (= Zope packages) that you should install in the
+Products/ directory of your Zope instance.
+
+
+Prerequisites
+=============
+
+1. You should be familiar with Zope installation and maintenance.
+
+2. You NEED:
+
+- Python 2.4.[2-4] (will not work with 2.5)
+
+- Zope 2.9.7 or any upper version from the 2.9 branch.
+  It will not work with older versions.
+  Required packages to build the Zope software if needed:
+  make gcc python-dev build-essential
+
+3. You may also need other Python libraries or utils
+
+   ====================== =======================================
+   Debian package name    Usage
+   ---------------------- ---------------------------------------
+   python-xml             Required XML tools
+   python-imaging         Resizes images
+   python-docutils        Enables ReST usage
+   lynx                   Transforms html into text
+   unzip                  Extract OOo ODF content
+   xsltproc               Transforms OOo ODF into html
+   pdftohtml              Transforms PDF to html
+   gs-common              Transforms postcript into html
+   unrtf                  Transforms RTF into html
+   wv                     Transforms ms .doc into html
+   xlhtml                 Transforms ms .xls into html
+   ppthtml                Transforms ms .ppt into html
+
+   (python-ldap)          Enables LDAP directory
+   (python-lxml >= 1.0.0) Required for CPSBlog
+   ====================== =======================================
+
+
+Incompatibilities
+=================
+
+Don't install CPS in the same instance as a pure CMF or a Plone instance.
+
+
+
+.. Local Variables:
+.. mode: rst
+.. End:
+.. vim: set filetype=rst:
