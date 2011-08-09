@@ -28,7 +28,7 @@
     <!-- Products from CPS-3-base.
 	 Duplicated because recursive inclusions are not supported -->
     <branch path="products/CPSCompat" />
-    <branch path="products/CPSCore" name="Zope-2.10"/>
+    <branch path="products/CPSCore"/>
     <branch path="products/CPSDefault"/>
     <branch path="products/CPSDesignerThemes" />
     <branch path="products/CPSDirectory" />
