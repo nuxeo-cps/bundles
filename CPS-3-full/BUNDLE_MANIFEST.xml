@@ -61,15 +61,15 @@
   <server
       url="http://hg.cps-cms.org/vendor/CMF/1.6.3"
       push-url="https://hg.cps-cms.org/vendor/CMF/1.6.3">
-    <branch path="CMFActionIcons"/>
-    <branch path="CMFCalendar"/>
-    <branch path="CMFCore"/>
-    <branch path="CMFDefault"/>
-    <branch path="CMFSetup"/>
-    <branch path="CMFTopic"/>
-    <branch path="CMFUid"/>
-    <branch path="DCWorkflow"/>
-    <branch path="GenericSetup"/>
+    <tag name="1.6.3" path="CMFActionIcons"/>
+    <tag name="1.6.3" path="CMFCalendar"/>
+    <tag name="1.6.3" path="CMFCore"/>
+    <tag name="1.6.3" path="CMFDefault"/>
+    <tag name="1.6.3" path="CMFSetup"/>
+    <tag name="1.6.3" path="CMFTopic"/>
+    <tag name="1.6.3" path="CMFUid"/>
+    <tag name="1.6.3" path="DCWorkflow"/>
+    <tag name="1.6.3" path="GenericSetup"/>
   </server>
 
   <!-- Other "vendor" products from Nuxeo's svn repository.
@@ -78,18 +78,18 @@
 	  push-url="https://hg.cps-cms.org/vendor">
 
     <!-- Not in CPS-3-base-->
-    <branch target="CMFonFive" path="CMFonFive/1.3.3"/>
-    <branch target="iCalendar"
-	    name="0.11-ogrisel-inline-fix" path="iCalendar/0.11"/>
-    <branch target="DCWorkflowGraph" path="DCWorkflowGraph/0.3"/>
+    <tag target="iCalendar"
+	    name="0.11-ogrisel" path="iCalendar/0.11"/>
     <branch name="gracinet-fix-range"
 	    target="CPSTramline/tramlinepath" path="tramline"
 	    subpath="src/tramline/path"/>
 
     <!-- in CPS-3-base -->
-    <branch target="ExternalEditor" path="ExternalEditor/0.9.2"/>
-    <branch target = "FCKeditor" name="fckeditor.plone_2.2-nux"
+    <tag name="1.3.3-tag" target="CMFonFive" path="CMFonFive/1.3.3"/>
+    <tag name="0.9.2-tag" target="ExternalEditor" path="ExternalEditor/0.9.2"/>
+    <tag name="plone_2.2" target = "FCKeditor"
 	    path="FCKeditor/fckeditor.plone_2.2"/>
+    <tag name="0.3-tag" target="DCWorkflowGraph" path="DCWorkflowGraph/0.3"/>
     <tag name="1.0.0-for-cmf-1.6.0" path="UnicodeLexicon"/>
   </server>
 

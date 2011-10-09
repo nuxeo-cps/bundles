@@ -1,0 +1,56 @@
+=======
+COPYING
+=======
+
+:Authors: M.-A. Darche
+
+
+Code and software parts
+=======================
+
+This software is a Free / Libre / Open Source Software and distributed according
+to specific licenses.
+
+Each meaningful file as a copyright statement at the top.
+You are entitled to read and act according to those statements.
+
+A copy of the GPL 2.0 is shipped with this software package.
+
+
+Graphic resources
+=================
+
+This sofware package uses many graphic resources.
+
+We are taking care to include the copyright information into each
+icon/image metadata so that they can be checked individually. The metadata can
+be read by using, for example, the exiftool program (``libimage-exiftool-perl``
+package) ::
+
+  $ exiftool chrome/skin/transmit_go.png
+  ExifTool Version Number         : 7.30
+  File Name                       : transmit_go.png
+  Directory                       : chrome/skin
+  File Size                       : 1045 bytes
+  File Modification Date/Time     : 2010:04:23 15:13:43
+  File Type                       : PNG
+  MIME Type                       : image/png
+  Image Width                     : 16
+  Image Height                    : 16
+  Bit Depth                       : 8
+  Color Type                      : RGB with Alpha
+  Compression                     : Deflate/Inflate
+  Filter                          : Adaptive
+  Interlace                       : Noninterlaced
+  Gamma                           : 2.2222
+  Software                        : Adobe ImageReady
+  Author                          : Mark James
+  Copyright                       : Creative Commons (Attribution 2.5 Generic) http://www.iconfinder.com/browse/iconset/silk2/#readme
+  Source                          : http://famfamfam.com/lab/icons/silk/
+  Image Size                      : 16x16
+
+
+.. Local Variables:
+.. mode: rst
+.. End:
+.. vim: set filetype=rst:
