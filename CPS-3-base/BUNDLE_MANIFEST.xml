@@ -4,26 +4,26 @@
   <server name="CPS Products, mainline server"
 	  url="http://hg.cps-cms.org"
 	  push-url="https://hg.cps-cms.org">
-    <branch path="products/CPSCompat" />
-    <branch path="products/CPSCore" />
-    <branch path="products/CPSDefault" />
-    <branch path="products/CPSDesignerThemes" />
-    <branch path="products/CPSDirectory" />
-    <branch path="products/CPSDocument" />
-    <branch path="products/CPSI18n" />
-    <branch path="products/CPSNavigation" />
-    <branch path="products/CPSPortlets" />
-    <branch path="products/CPSSchemas" />
-    <branch path="products/CPSSubscriptions" />
-    <branch path="products/CPSUserFolder" />
-    <branch path="products/CPSUtil" />
-    <branch path="products/CPSWorkflow" />
-    <branch path="products/CPSonFive" />
+    <branch path="products/CPSCompat" testing="continuous"/>
+    <branch path="products/CPSCore"  testing="continuous"/>
+    <branch path="products/CPSDefault" testing="continuous" />
+    <branch path="products/CPSDesignerThemes" testing="continuous" />
+    <branch path="products/CPSDirectory" testing="continuous" />
+    <branch path="products/CPSDocument" testing="continuous" />
+    <branch path="products/CPSI18n" testing="continuous" />
+    <branch path="products/CPSNavigation" testing="continuous" />
+    <branch path="products/CPSPortlets" testing="continuous" />
+    <branch path="products/CPSSchemas" testing="continuous" />
+    <branch path="products/CPSSubscriptions" testing="continuous" />
+    <branch path="products/CPSUserFolder" testing="continuous" />
+    <branch path="products/CPSUtil" testing="continuous" />
+    <branch path="products/CPSWorkflow" testing="continuous" />
+    <branch path="products/CPSonFive" testing="continuous" />
 
-    <branch path="zope2/Localizer" />
-    <branch path="zope2/PortalTransforms" />
-    <branch path="zope2/TranslationService" />
-    <branch path="zope2/ZMIntrospection" />
+    <branch path="zope2/Localizer"  testing="continuous"/>
+    <branch path="zope2/PortalTransforms" testing="yes" />
+    <branch path="zope2/TranslationService" testing="continuous" />
+    <branch path="zope2/ZMIntrospection"  testing="yes"/>
   </server>
 
   <!-- Other "vendor" products from Nuxeo's svn repository.
