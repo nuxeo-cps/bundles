@@ -67,7 +67,7 @@
     <tag name="plone_2.2" target = "FCKeditor"
 	    path="FCKeditor/fckeditor.plone_2.2"/>
     <tag name="0.3-tag" target="DCWorkflowGraph" path="DCWorkflowGraph/0.3"/>
-    <tag name="1.0.0-for-cmf-1.6.0" path="UnicodeLexicon"/>
+    <tag name="1.0.1-for-cmf-1.6.0" path="UnicodeLexicon"/>
   </server>
 
   <!-- Sporadic stuff -->
