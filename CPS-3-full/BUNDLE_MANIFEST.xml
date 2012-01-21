@@ -22,7 +22,7 @@
     <branch path="products/CPSRelation" />
     <branch path="products/CPSComment" />
     <branch path="products/CPSRSS" />
-    <branch path="legacy/CPSCollector" />
+    <branch path="products/CPSUserForms" />
     <branch path="products/CPSUid" />
     <branch path="products/CPSRemoteController" />
     <branch path="products/CPSSharedCalendar" />
