@@ -7,57 +7,57 @@
 
     <!-- Products that aren't in CPS-3-base -->
 
-    <branch path="products/CPSBayes" />
-    <branch path="products/CPSChat" />
-    <branch path="products/CPSCourrier" />
-    <branch path="products/CPSOOo" />
-    <branch path="products/CPSUserForms" />
-    <branch path="products/CPSUid" />
+    <branch path="products/CPSBayes" testing="continuous" />
+    <branch path="products/CPSChat" testing="continuous" />
+    <branch path="products/CPSCourrier" testing="continuous" />
+    <branch path="products/CPSOOo" testing="continuous" />
+    <branch path="products/CPSUserForms" testing="continuous" />
+    <branch path="products/CPSUid" testing="continuous" />
 
-    <branch path="zope2/BayesCore"/>
+    <branch path="zope2/BayesCore" testing="continuous" />
 
     <!-- Products from CPS-3 -->
 
-    <branch path="products/CPSApacheProxyBalancer" />
-    <branch path="products/CPSFileMailer" />
-    <branch path="products/CPSTramline" />
-    <branch path="products/CPSBlog" />
-    <branch path="products/CPSDashboards" />
-    <branch path="products/CPSExtendedAuth" />
-    <branch path="products/CPSForum" />
-    <branch path="products/CPSLDAPSetup" />
-    <branch path="products/CPSRelation" />
-    <branch path="products/CPSComment" />
-    <branch path="products/CPSRSS" />
-    <branch path="products/CPSRemoteController" />
-    <branch path="products/CPSSharedCalendar" />
-    <branch path="products/CPSonFive" />
+    <branch path="products/CPSApacheProxyBalancer" testing="yes" />
+    <branch path="products/CPSFileMailer" testing="yes" />
+    <branch path="products/CPSTramline" testing="yes" />
+    <branch path="products/CPSBlog" testing="yes" />
+    <branch path="products/CPSDashboards" testing="yes" />
+    <branch path="products/CPSExtendedAuth" testing="yes" />
+    <branch path="products/CPSForum" testing="yes" />
+    <branch path="products/CPSLDAPSetup" testing="yes" />
+    <branch path="products/CPSRelation" testing="yes" />
+    <branch path="products/CPSComment" testing="yes" />
+    <branch path="products/CPSRSS" testing="yes" />
+    <branch path="products/CPSRemoteController" testing="yes" />
+    <branch path="products/CPSSharedCalendar" testing="yes" />
+    <branch path="products/CPSonFive" testing="yes" />
 
-    <branch path="python/CalCore" />
-    <branch path="zope2/CalZope" />
+    <branch path="python/CalCore" testing="yes" />
+    <branch path="zope2/CalZope" testing="yes" />
 
     <!-- Products from CPS-3-base.
 	 Duplicated because recursive inclusions are not supported -->
-    <branch path="products/CPSCompat" />
-    <branch path="products/CPSCore" />
-    <branch path="products/CPSDefault" />
-    <branch path="products/CPSDesignerThemes" />
-    <branch path="products/CPSDirectory" />
-    <branch path="products/CPSDocument" />
-    <branch path="products/CPSI18n" />
-    <branch path="products/CPSNavigation" />
-    <branch path="products/CPSPortlets" />
-    <branch path="products/CPSSchemas" />
-    <branch path="products/CPSSubscriptions" />
-    <branch path="products/CPSTypeMaker" />
-    <branch path="products/CPSUserFolder" />
-    <branch path="products/CPSUtil" />
-    <branch path="products/CPSWiki" />
-    <branch path="products/CPSWorkflow" />
-    <branch path="zope2/Localizer" />
-    <branch path="zope2/PortalTransforms" />
-    <branch path="zope2/TranslationService" />
-    <branch path="zope2/ZMIntrospection" />
+    <branch path="products/CPSCompat" testing="yes" />
+    <branch path="products/CPSCore" testing="yes" />
+    <branch path="products/CPSDefault" testing="yes" />
+    <branch path="products/CPSDesignerThemes" testing="yes" />
+    <branch path="products/CPSDirectory" testing="yes" />
+    <branch path="products/CPSDocument" testing="yes" />
+    <branch path="products/CPSI18n" testing="yes" />
+    <branch path="products/CPSNavigation" testing="yes" />
+    <branch path="products/CPSPortlets" testing="yes" />
+    <branch path="products/CPSSchemas" testing="yes" />
+    <branch path="products/CPSSubscriptions" testing="yes" />
+    <branch path="products/CPSTypeMaker" testing="yes" />
+    <branch path="products/CPSUserFolder" testing="yes" />
+    <branch path="products/CPSUtil" testing="yes" />
+    <branch path="products/CPSWiki" testing="yes" />
+    <branch path="products/CPSWorkflow" testing="yes" />
+    <branch path="zope2/Localizer" testing="yes" />
+    <branch path="zope2/PortalTransforms" testing="yes" />
+    <branch path="zope2/TranslationService" testing="yes" />
+    <branch path="zope2/ZMIntrospection" testing="yes" />
   </server>
 
   <!-- Other "vendor" products from Nuxeo's svn repository.
