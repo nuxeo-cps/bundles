@@ -7,29 +7,33 @@
 
     <!-- Products that aren't in CPS-3-base -->
 
+    <branch path="products/CPSBayes" />
+    <branch path="products/CPSChat" />
+    <branch path="products/CPSCourrier" />
+    <branch path="products/CPSOOo" />
+    <branch path="products/CPSUserForms" />
+    <branch path="products/CPSUid" />
+
+    <branch path="zope2/BayesCore"/>
+
+    <!-- Products from CPS-3 -->
+
     <branch path="products/CPSApacheProxyBalancer" />
     <branch path="products/CPSFileMailer" />
     <branch path="products/CPSTramline" />
     <branch path="products/CPSBlog" />
-    <branch path="products/CPSBayes" />
-    <branch path="products/CPSChat" />
-    <branch path="products/CPSCourrier" />
     <branch path="products/CPSDashboards" />
     <branch path="products/CPSExtendedAuth" />
     <branch path="products/CPSForum" />
     <branch path="products/CPSLDAPSetup" />
-    <branch path="products/CPSOOo" />
     <branch path="products/CPSRelation" />
     <branch path="products/CPSComment" />
     <branch path="products/CPSRSS" />
-    <branch path="products/CPSUserForms" />
-    <branch path="products/CPSUid" />
     <branch path="products/CPSRemoteController" />
     <branch path="products/CPSSharedCalendar" />
     <branch path="products/CPSonFive" />
 
     <branch path="python/CalCore" />
-    <branch path="zope2/BayesCore" />
     <branch path="zope2/CalZope" />
 
     <!-- Products from CPS-3-base.
